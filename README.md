@@ -38,6 +38,8 @@ Also they are able to download and watch the lesson when there's no internet con
 - MVVM
 - SwiftUI
 - UIKit
+- XCTest
+- XCUITest
 
 ## Support
 
